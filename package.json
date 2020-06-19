@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-installreferrer",
+  "name": "cordova-plugin-referrer",
   "version": "2.0.0",
   "description": "This plugin is used for get the information sent from Play Store after install app",
   "cordova": {
-    "id": "cordova-plugin-installreferrer",
+    "id": "cordova-plugin-referrer",
     "platforms": [
       "android"
     ]
