@@ -8,7 +8,7 @@ Installing
 
 From the repo:
 
-	$ cordova plugin add https://github.com/vijayrajasekaran/cordova-plugin-referrer
+	$ cordova plugin add https://github.com/Gokulanathan29/cordova-plugin-installreferrer
 
 
 How To Retrieve the Referrer Value
